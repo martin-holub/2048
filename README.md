@@ -10,8 +10,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 [Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
 
 Other notable contributors:
-
- - [TimPetricola](https://github.com/TimPetricola) added best score storage
+- [martin-holub](https://github.com/martin-holub) invented the best color palette
  - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
  - [marcingajda](https://github.com/marcingajda) made swipes work on Windows Phone
  - [mgarciaisaia](https://github.com/mgarciaisaia) added support for Android 2.3
